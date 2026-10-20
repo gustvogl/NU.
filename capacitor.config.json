@@ -1,0 +1,12 @@
+{
+  "appId": "br.com.gustavo.bancoacademico",
+  "appName": "Banco Acadêmico",
+  "webDir": "dist",
+  "backgroundColor": "#820ad1",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
